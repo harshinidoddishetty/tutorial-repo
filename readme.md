@@ -1,0 +1,1 @@
+Download and install github and vscode to start project
